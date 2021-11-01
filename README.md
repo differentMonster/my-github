@@ -2,6 +2,7 @@
 
 # Step 1
 # Add your name and email then paste on ternimal
+# Only need to set once
 * git config --global user.name "Your Name"
 * git config --global user.email "Your Email"
 * git config --global push.default matching
@@ -34,3 +35,14 @@
 * git branch -M master
 # Need to " add . "  and " commit -m " before pushing to github
 * git push -u origin master
+
+
+# GitHub CheatSheet
+*** check what path git origin are in
+* git remote -v
+
+*** remove origin path
+* git remote remove origin
+
+- 1 November 2021
+*** kaizam check how pull request work with team.
