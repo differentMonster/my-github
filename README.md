@@ -35,6 +35,8 @@
 * git branch -M master
 # Need to " add . "  and " commit -m " before pushing to github
 * git push -u origin master
+# After ssh key comfirm and sudo login you can use this to push
+* git push
 
 
 # GitHub CheatSheet
