@@ -46,5 +46,8 @@
 *** remove origin path
 * git remote remove origin
 
+*** update package log
+* git log
+
 - 1 November 2021
 *** kaizam check how pull request work with team.
