@@ -51,3 +51,6 @@
 
 - 1 November 2021
 *** kaizam check how pull request work with team.
+
+*** update package ( if you package is not same as origin one )
+* git pull origin master
