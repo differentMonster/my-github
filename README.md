@@ -1,4 +1,4 @@
-# Initializaing Git For Version Control
+# Intializing Git For Version Control
 
 # Step 1
 # Add your name and email then paste on ternimal
